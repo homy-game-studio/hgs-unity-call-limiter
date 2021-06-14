@@ -1,0 +1,18 @@
+{
+  "name": "com.hgs.call-limiter",
+  "version": "0.0.0",
+  "displayName": "Call Limiter",
+  "description": "Pacote de utilidades para limitar invocações de métodos",
+  "unity": "2020.1",
+  "keywords": [
+    "Call",
+    "Limiter",
+    "Throttle",
+    "Debounce"
+  ],
+  "author": {
+    "name": "Homy Game Studio",
+    "email": "contato@homygamestudio.com"
+  },
+  "dependencies": {}
+}
