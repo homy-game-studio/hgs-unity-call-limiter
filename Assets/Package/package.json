@@ -1,6 +1,6 @@
 {
   "name": "com.hgs.call-limiter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Call Limiter",
   "description": "Pacote de utilidades para limitar invocações de métodos",
   "unity": "2020.1",
