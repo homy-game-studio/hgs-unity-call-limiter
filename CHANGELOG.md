@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/homy-game-studio/hgs-unity-call-limiter/compare/v1.0.1...v2.0.0) (2021-10-22)
+
+
+### Bug Fixes
+
+* corrige metafiles ([7701554](https://github.com/homy-game-studio/hgs-unity-call-limiter/commit/7701554f771f68991e3942be0ef7a360b5671127))
+
+
+### BREAKING CHANGES
+
+* corrige metafiles
+
 ## [1.0.1](https://github.com/homy-game-studio/hgs-unity-call-limiter/compare/v1.0.0...v1.0.1) (2021-06-15)
 
 
