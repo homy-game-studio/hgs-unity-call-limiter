@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/homy-game-studio/hgs-unity-call-limiter/compare/v2.0.0...v2.1.0) (2022-07-22)
+
+
+### Features
+
+* **Samples:** add WeaponSample ([c34420a](https://github.com/homy-game-studio/hgs-unity-call-limiter/commit/c34420a4087cf34c96793ac5af20b80eed678f0d))
+
 # [2.0.0](https://github.com/homy-game-studio/hgs-unity-call-limiter/compare/v1.0.1...v2.0.0) (2021-10-22)
 
 
