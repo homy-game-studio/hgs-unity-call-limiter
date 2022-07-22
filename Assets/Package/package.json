@@ -2,7 +2,7 @@
   "name": "com.hgs.call-limiter",
   "version": "2.0.0",
   "displayName": "HGS Call Limiter",
-  "description": "Pacote de utilidades para limitar invocações de métodos",
+  "description": "Simple implementation of Throttle and Debounce",
   "unity": "2020.1",
   "keywords": [
     "Call",
@@ -14,5 +14,12 @@
     "name": "Homy Game Studio",
     "email": "contato@homygamestudio.com"
   },
+  "samples": [
+    {
+      "displayName": "Weapon Sample",
+      "description": "Fire and Auto Reload using  Throttle and Debounce",
+      "path": "~/Samples/Weapon"
+    }
+  ],
   "dependencies": {}
 }
