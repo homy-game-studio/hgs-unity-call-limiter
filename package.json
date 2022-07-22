@@ -1,6 +1,6 @@
 {
   "name": "com.hgs.call-limiter",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "displayName": "HGS Call Limiter",
   "description": "Simple implementation of Throttle and Debounce",
   "unity": "2020.1",
